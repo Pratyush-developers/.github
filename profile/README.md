@@ -1,26 +1,23 @@
 # Pratyush-developers Team
 
-Welcome to the GitHub repository for the Pratyush-developers team. We're passionate about [your team's focus or mission] and dedicated to creating innovative projects.
+Welcome to the Pratyush developers team. We're passionate about codeing and dedicated to creating innovative projects.
 
 ## About Us
 
-[Provide a brief introduction to your team, its mission, and goals. Share what makes your team unique and why it exists.]
-
+"Explore the diverse world of technology, coding, and creativity at Pratyush Developers.We give free code
 ## Projects
 
 Explore our projects and contribute to making a difference:
 
-### [Project 1]
+### Torch
 
-- **Description**: [Briefly describe the project, its purpose, and key features.]
-- **Repository**: [Link to the project repository.]
+- **Description**: We are making a Torch app for windows using python programing launguage
+- **Repository**: [Torch-for-PC](https://github.com/Pratyush-developers/Torch-for-P.C)
 
-### [Project 2]
+### Ai with python programming language
 
-- **Description**: [Briefly describe the project, its purpose, and key features.]
-- **Repository**: [Link to the project repository.]
-
-[Add more projects as needed.]
+- **Description**: We are making a AI with help of python programming languages without and modules and use of input, if, elif, else and print statement
+- **Repository**: [Ai-with-python-databased](https://github.com/Pratyush-developers/Ai-with-python-databased)
 
 ## How to Contribute
 
@@ -38,16 +35,16 @@ We prioritize creating an inclusive and welcoming community. Please review our [
 
 ## Join Us
 
-If you're passionate about [your team's focus], consider joining our community! Learn more on our [Join Us](JOIN_US.md) page.
+If you're passionate about codeing, consider joining our community! Learn more on our [Join Us](https://pratyushdevs.wordpress.com/join/).
 
 ## Contact
 
-- **Email**: [team@example.com]
-- **Twitter**: [@team_handle]
+- **Email**: pratyush0898@gmail.com
+- **LinkedIn**: [Pratyush developers](https://www.linkedin.com/groups/9556127/)
 
 ## License
 
-Our projects are licensed under the [Choose a license (e.g., MIT, Apache License 2.0)](LICENSE).
+Our projects are licensed under the (Apache License 2.0)(LICENSE).
 
 ## Acknowledgments
 
